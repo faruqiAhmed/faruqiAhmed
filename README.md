@@ -2,3 +2,4 @@
 	
  iOS Developer
  test
+full Stack developer
