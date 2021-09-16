@@ -1,1 +1,2 @@
-Md. Omar Faruq
+ Md. Omar Faruq
+ iOS Developer
